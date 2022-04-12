@@ -4,7 +4,7 @@
 
 CREATE DATABASE  blog_db;
 
--- Cambiando a base de datos blog_db
+--Ingresando a base de datos blog_db
 \c blog_db
 
 --2. Crear las tablas indicadas de acuerdo al modelo de datos.
