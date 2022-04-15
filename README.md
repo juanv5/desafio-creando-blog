@@ -4,17 +4,23 @@
 
 Desafio desarrollado por un grupo de estudiantes dentro del Bootcamp Fullstack Javascript Trainee al año 2022, en el que se crea un sitio web dedicado al mundo cinematográfico donde los usuarios puedan buscar detalles del top 100 de películas más populares. El plus más importante de este sitio web debe ser la variedad de filtros que ofrece para una búsqueda más efectiva.
 
-Contenidos aplicados
+##Contenidos aplicados
+
 Tipos de datos
 Clave primaria y foránea
-Creación de tablas e importacion datos CSV.
+
+##Creación de tablas e importacion datos CSV.
 Consultas
-Paso a paso (resumen)
+
+###Paso a paso (resumen)
+
 Se crea una base de datos con el comando CREATE DATABASE llamada peliculas_db y luego dos tablas con CREATE TABLE (peliculas y reparto).
 Importamos los datos de dos archivos CSV con COPY TO
 Para realizar consultas especificas se utilizaron los comandos SELECT FROM WHERE, COUNT ORDER BY, LENGHT y MAX.
 Instrucciones de visualización
-Para ingresar a ver los archivos del proyecto, dirijase a la carpeta Desafio_Top_100, y luego a desafio.sql, también podrá ver los archivos CSV.
+
+
+##Para ingresar a ver los archivos del proyecto, dirijase a la carpeta Desafio_Top_100, y luego a desafio.sql, también podrá ver los archivos CSV.
 Usted puede descargar el proyecto o clonarlo.
 Para ver las tablas en SQL SHELL(psql) ingrese SELECT * FROM nombre_tabla;
 Quiénes contribuyeron
