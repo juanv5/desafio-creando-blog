@@ -20,8 +20,7 @@ Para realizar consultas especificas se utilizaron los comandos SELECT FROM WHERE
 Instrucciones de visualización
 
 
-##Para ingresar a ver los archivos del proyecto, dirijase a la carpeta Desafio_Top_100, y luego a desafio.sql, también podrá ver los archivos CSV.
-Usted puede descargar el proyecto o clonarlo.
+##Para ingresar y ver los archivos del proyecto, puede descargar el proyecto o clonarlo.
 Para ver las tablas en SQL SHELL(psql) ingrese SELECT * FROM nombre_tabla;
 Quiénes contribuyeron
 
